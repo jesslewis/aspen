@@ -1,0 +1,29 @@
+body {
+	background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+                rgba(0,0,0,0.35) url("../images/Aspen-Snowmass.jpg") no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
+
+/* Layout */
+
+.title {
+	margin: 200px 0 0 35px;
+}
+.sub-title {
+	margin: 0 0 20px 40px;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 60px;
+	letter-spacing: 5px;	
+}
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	text-transform: uppercase;
+	font-style: italic;
+	letter-spacing: 5px;
+}
